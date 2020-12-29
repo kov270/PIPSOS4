@@ -2,9 +2,6 @@ package com.example.lab4.rest;
 
 import com.example.lab4.db.UserRepositoryJPA;
 import com.example.lab4.models.User;
-import com.google.gson.Gson;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
